@@ -1,0 +1,2 @@
+Hola, este es un ejemplo del archivo de texto.
+Esta es otra linea del archivo.

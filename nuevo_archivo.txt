@@ -1,0 +1,2 @@
+Hola, este es un nuevo archivo.
+Esta es otra línea del archivo.
